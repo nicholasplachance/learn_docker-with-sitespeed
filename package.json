@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sitespeed.io": "^33.6.0"
+  }
+}
